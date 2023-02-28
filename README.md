@@ -11,4 +11,6 @@ This serie of projects walks through working with image data, building classifie
 
 3- Naïve Bees Deep Learning with Images
 
+you can check the project in deepnote [Link](https://deepnote.com/workspace/myws-6d75-1e3603f0-9aa2-482f-973f-2609eab7cd28/project/Naive-Bees-be93c478-17ed-4e83-bfd3-7d486199ba1b/notebook/Introduction-2fd09446789c4a73aa6298dd8313135d)
+
 
